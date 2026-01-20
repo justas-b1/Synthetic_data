@@ -1,0 +1,1073 @@
+{
+  "therapy_reason": {
+	"question": "What brings you here?",
+	"options": [
+	  {
+		"option": "Google search",
+		"percentage_chance": 18.5
+	  },
+	  {
+		"option": "...",
+		"percentage_chance": 10
+	  },
+	  {
+		"option": "Friend or family member",
+		"percentage_chance": 18.2
+	  },
+	  {
+		"option": "Social media (TikTok, Instagram, Facebook)",
+		"percentage_chance": 15.7
+	  },
+	  {
+		"option": "Online review",
+		"percentage_chance": 9.3
+	  },
+	  {
+		"option": "YouTube",
+		"percentage_chance": 7.1
+	  },
+	  {
+		"option": "Healthcare provider referral",
+		"percentage_chance": 6.5
+	  },
+	  {
+		"option": "Podcast",
+		"percentage_chance": 4.2
+	  },
+	  {
+		"option": "Work/EAP program",
+		"percentage_chance": 3.8
+	  },
+	  {
+		"option": "Streaming TV (Hulu, Peacock...)",
+		"percentage_chance": 2.1
+	  },
+	  {
+		"option": "Reddit",
+		"percentage_chance": 1.9
+	  },
+	  {
+		"option": "School/University resources",
+		"percentage_chance": 1.3
+	  },
+	  {
+		"option": "Celebrity endorsement",
+		"percentage_chance": 0.6
+	  },
+	  {
+		"option": "Traditional media (TV, Radio)",
+		"percentage_chance": 0.4
+	  },
+	  {
+		"option": "Other",
+		"percentage_chance": 0.4
+	  }
+	]
+  },
+  "therapy_type": {
+    "question": "What type of therapy are you looking for?",
+    "options": [
+      {
+        "option": "Individual (for myself)",
+        "percentage_chance": 85.0
+      },
+      {
+        "option": "Couples (for myself and my partner)",
+        "percentage_chance": 15.0
+      }
+    ]
+  },
+  "country": {
+    "question": "Which country are you in?",
+    "options": [
+  {
+    "option": "Australia",
+    "percentage_chance": 3.0
+  },
+  {
+    "option": "Canada",
+    "percentage_chance": 3.0
+  },
+  {
+    "option": "Ireland",
+    "percentage_chance": 1
+  },
+  {
+    "option": "New Zealand",
+    "percentage_chance": 1
+  },
+  {
+    "option": "United Kingdom",
+    "percentage_chance": 17
+  },
+  {
+    "option": "United States",
+    "percentage_chance": 75
+  }
+]
+  },
+
+  "gender_identity": {
+    "question": "What is your gender identity?",
+    "options": [
+      {
+        "option": "Woman",
+        "percentage_chance": 49.0
+      },
+      {
+        "option": "Man",
+        "percentage_chance": 48.0
+      },
+      {
+        "option": "Non Binary",
+        "percentage_chance": 1.2
+      },
+      {
+        "option": "Prefer not to say",
+        "percentage_chance": 0.7
+      },
+      {
+        "option": "I don&#039;t know",
+        "percentage_chance": 0.4
+      },
+      {
+        "option": "Other",
+        "percentage_chance": 0.3
+      },
+      {
+        "option": "Transfeminine",
+        "percentage_chance": 0.2
+      },
+      {
+        "option": "Transmasculine",
+        "percentage_chance": 0.1
+      },
+      {
+        "option": "Agender",
+        "percentage_chance": 0.1
+      }
+    ]
+  },
+  "age": {
+    "question": "How old are you?",
+    "options": [
+      {
+        "option": "18-24",
+        "percentage_chance": 22.0
+      },
+      {
+        "option": "25-34",
+        "percentage_chance": 35.0
+      },
+      {
+        "option": "35-44",
+        "percentage_chance": 25.0
+      },
+      {
+        "option": "45-54",
+        "percentage_chance": 12.0
+      },
+      {
+        "option": "55-64",
+        "percentage_chance": 4.5
+      },
+      {
+        "option": "65+",
+        "percentage_chance": 1.5
+      }
+    ]
+  },
+  "sexual_orientation": {
+    "question": "How do you identify?",
+    "options": [
+      {
+        "option": "Straight",
+        "percentage_chance": 85.0
+      },
+      {
+        "option": "Bi or Pan",
+        "percentage_chance": 3.5
+      },
+      {
+        "option": "Gay",
+        "percentage_chance": 2.2
+      },
+      {
+        "option": "Lesbian",
+        "percentage_chance": 3.8
+      },
+      {
+        "option": "Prefer not to say",
+        "percentage_chance": 2.0
+      },
+      {
+        "option": "Questioning",
+        "percentage_chance": 1.5
+      },
+      {
+        "option": "Queer",
+        "percentage_chance": 0.8
+      },
+      {
+        "option": "Other",
+        "percentage_chance": 0.6
+      },
+      {
+        "option": "I don&#039;t know",
+        "percentage_chance": 0.4
+      },
+      {
+        "option": "Asexual",
+        "percentage_chance": 0.2
+      }
+    ]
+  },
+  "relationship_status": {
+    "question": "What is your relationship status?",
+    "options": [
+      {
+        "option": "Single",
+        "percentage_chance": 50.0
+      },
+      {
+        "option": "Married",
+        "percentage_chance": 20.5
+      },
+      {
+        "option": "In a relationship",
+        "percentage_chance": 18.0
+      },
+      {
+        "option": "Divorced",
+        "percentage_chance": 7.5
+      },
+      {
+        "option": "Other",
+        "percentage_chance": 2.5
+      },
+      {
+        "option": "Widowed",
+        "percentage_chance": 1.5
+      }
+    ]
+  },
+  "religion_importance": {
+    "question": "How important is religion in your life?",
+    "options": [
+      {
+        "option": "Somewhat important",
+        "percentage_chance": 35.0
+      },
+      {
+        "option": "Not important at all",
+        "percentage_chance": 28.5
+      },
+      {
+        "option": "Important",
+        "percentage_chance": 22.0
+      },
+      {
+        "option": "Very important",
+        "percentage_chance": 14.5
+      }
+    ]
+  },
+  "religion_identity": {
+    "question": "Which religion do you identify with?",
+    "options": [
+      {
+        "option": "Christianity",
+        "percentage_chance": 25.0
+      },
+      {
+        "option": "None/Atheist/Agnostic",
+        "percentage_chance": 34.0
+      },
+      {
+        "option": "Islam",
+        "percentage_chance": 30.5
+      },
+      {
+        "option": "Hinduism",
+        "percentage_chance": 4.0
+      },
+      {
+        "option": "Buddhism",
+        "percentage_chance": 1.5
+      },
+      {
+        "option": "Other",
+        "percentage_chance": 1.3
+      },
+      {
+        "option": "Judaism",
+        "percentage_chance": 1.2
+      },
+      {
+        "option": "Prefer not to say",
+        "percentage_chance": 0.5
+      }
+    ]
+  },
+  "christian_therapy": {
+    "question": "Would you like to be matched with a therapist who provides Christian-based therapy?",
+    "options": [
+      {
+        "option": "No",
+        "percentage_chance": 82.0
+      },
+      {
+        "option": "Yes",
+        "percentage_chance": 18.0
+      }
+    ]
+  },
+  "spiritual": {
+    "question": "Do you consider yourself to be spiritual?",
+    "options": [
+      {
+        "option": "Yes",
+        "percentage_chance": 58.0
+      },
+      {
+        "option": "No",
+        "percentage_chance": 42.0
+      }
+    ]
+  },
+  "therapy_before": {
+    "question": "Have you ever been in therapy before?",
+    "options": [
+      {
+        "option": "No",
+        "percentage_chance": 72.0
+      },
+      {
+        "option": "Yes",
+        "percentage_chance": 28.0
+      }
+    ]
+  },
+  "therapy_motivation": {
+    "question": "What led you to consider therapy today?",
+    "options": [
+      {
+        "option": "I feel anxious or overwhelmed",
+        "percentage_chance": 11.5
+      },
+      {
+        "option": "I&#039;ve been feeling depressed",
+        "percentage_chance": 31.0
+      },
+      {
+        "option": "I need to talk through a specific challenge",
+        "percentage_chance": 12.0
+      },
+      {
+        "option": "I struggle with building or maintaining relationships",
+        "percentage_chance": 15.5
+      },
+      {
+        "option": "Recommended to me (friend, family, doctor)",
+        "percentage_chance": 10.0
+      },
+      {
+        "option": "I want to gain self confidence",
+        "percentage_chance": 5.5
+      },
+      {
+        "option": "My mood is interfering with my job/school performance",
+        "percentage_chance": 4.0
+      },
+      {
+        "option": "I have experienced trauma",
+        "percentage_chance": 3.5
+      },
+      {
+        "option": "I want to improve myself but I don&#039;t know where to start",
+        "percentage_chance": 2.5
+      },
+      {
+        "option": "I am grieving",
+        "percentage_chance": 2.0
+      },
+      {
+        "option": "I can&#039;t find purpose and meaning in my life",
+        "percentage_chance": 1.2
+      },
+      {
+        "option": "Just exploring",
+        "percentage_chance": 0.8
+      },
+      {
+        "option": "Other",
+        "percentage_chance": 0.5
+      }
+    ]
+  },
+  "therapist_expectations": {
+    "question": "What are your expectations from your therapist? A therapist who...",
+    "options": [
+      {
+        "option": "Listens",
+        "percentage_chance": 34.0
+      },
+      {
+        "option": "Teaches me new skills",
+        "percentage_chance": 18.5
+      },
+      {
+        "option": "Guides me to set goals",
+        "percentage_chance": 15.0
+      },
+      {
+        "option": "Explores my past",
+        "percentage_chance": 12.0
+      },
+      {
+        "option": "Challenges my beliefs",
+        "percentage_chance": 8.0
+      },
+      {
+        "option": "Proactively checks in with me",
+        "percentage_chance": 5.5
+      },
+      {
+        "option": "I don&#039;t know",
+        "percentage_chance": 4.0
+      },
+      {
+        "option": "Assigns me homework",
+        "percentage_chance": 2.5
+      },
+      {
+        "option": "Other",
+        "percentage_chance": 0.5
+      }
+    ]
+  },
+  "communication_style": {
+    "question": "Would you prefer a therapist who is gentle or direct?",
+    "options": [
+      {
+        "option": "Gentle",
+        "percentage_chance": 32.0
+      },
+      {
+        "option": "Somewhat gentle",
+        "percentage_chance": 25.5
+      },
+      {
+        "option": "No preference",
+        "percentage_chance": 20.0
+      },
+      {
+        "option": "Somewhat direct",
+        "percentage_chance": 15.0
+      },
+      {
+        "option": "Direct",
+        "percentage_chance": 7.5
+      }
+    ]
+  },
+  "session_style": {
+    "question": "Would you prefer a therapist who is flexible or structured?",
+    "options": [
+      {
+        "option": "Flexible",
+        "percentage_chance": 35.0
+      },
+      {
+        "option": "Somewhat flexible",
+        "percentage_chance": 28.0
+      },
+      {
+        "option": "No preference",
+        "percentage_chance": 18.0
+      },
+      {
+        "option": "Somewhat structured",
+        "percentage_chance": 12.0
+      },
+      {
+        "option": "Structured",
+        "percentage_chance": 7.0
+      }
+    ]
+  },
+  "therapist_formality": {
+    "question": "Would you prefer a therapist who is casual or formal?",
+    "options": [
+      {
+        "option": "Casual",
+        "percentage_chance": 38.0
+      },
+      {
+        "option": "Somewhat casual",
+        "percentage_chance": 26.5
+      },
+      {
+        "option": "No preference",
+        "percentage_chance": 18.0
+      },
+      {
+        "option": "Somewhat formal",
+        "percentage_chance": 12.0
+      },
+      {
+        "option": "Formal",
+        "percentage_chance": 5.5
+      }
+    ]
+  },
+  "eating_habits": {
+    "question": "How would you rate your current eating habits?",
+    "options": [
+      {
+        "option": "Fair",
+        "percentage_chance": 48.0
+      },
+      {
+        "option": "Good",
+        "percentage_chance": 35.0
+      },
+      {
+        "option": "Poor",
+        "percentage_chance": 17.0
+      }
+    ]
+  },
+  "sleep_habits": {
+    "question": "How would you rate your current sleeping habits?",
+    "options": [
+      {
+        "option": "Fair",
+        "percentage_chance": 42.0
+      },
+      {
+        "option": "Poor",
+        "percentage_chance": 33.0
+      },
+      {
+        "option": "Good",
+        "percentage_chance": 25.0
+      }
+    ]
+  },
+  "physical_health": {
+    "question": "How would you rate your current physical health?",
+    "options": [
+      {
+        "option": "Good",
+        "percentage_chance": 45.0
+      },
+      {
+        "option": "Fair",
+        "percentage_chance": 38.0
+      },
+      {
+        "option": "Poor",
+        "percentage_chance": 17.0
+      }
+    ]
+  },
+  "medication": {
+    "question": "Are you currently taking any medication?",
+    "options": [
+      {
+        "option": "No",
+        "percentage_chance": 58.0
+      },
+      {
+        "option": "Yes",
+        "percentage_chance": 42.0
+      }
+    ]
+  },
+  "alcohol_use": {
+    "question": "How often do you drink alcohol?",
+    "options": [
+      {
+        "option": "Infrequently",
+        "percentage_chance": 42.0
+      },
+      {
+        "option": "Never",
+        "percentage_chance": 28.5
+      },
+      {
+        "option": "Weekly",
+        "percentage_chance": 18.0
+      },
+      {
+        "option": "Monthly",
+        "percentage_chance": 9.0
+      },
+      {
+        "option": "Daily",
+        "percentage_chance": 2.5
+      }
+    ]
+  },
+  "intimacy_issues": {
+    "question": "Do you have any problems or worries about intimacy?",
+    "options": [
+      {
+        "option": "Yes",
+        "percentage_chance": 61.0
+      },
+      {
+        "option": "No",
+        "percentage_chance": 39.0
+      }
+    ]
+  },
+  "chronic_pain": {
+    "question": "Are you currently experiencing any chronic pain?",
+    "options": [
+      {
+        "option": "No",
+        "percentage_chance": 72.0
+      },
+      {
+        "option": "Yes",
+        "percentage_chance": 28.0
+      }
+    ]
+  },
+  "anxiety_experience": {
+    "question": "Are you currently experiencing anxiety, panic attacks or have any phobias?",
+    "options": [
+      {
+        "option": "Yes",
+        "percentage_chance": 68.0
+      },
+      {
+        "option": "No",
+        "percentage_chance": 32.0
+      }
+    ]
+  },
+  "employment": {
+    "question": "Are you currently employed?",
+    "options": [
+      {
+        "option": "Yes",
+        "percentage_chance": 85.0
+      },
+      {
+        "option": "No",
+        "percentage_chance": 15.0
+      }
+    ]
+  },
+  "physical_health": {
+    "question": "How would you rate your current physical health?",
+    "options": [
+      {
+        "option": "Good",
+        "percentage_chance": 45.0
+      },
+      {
+        "option": "Fair",
+        "percentage_chance": 38.0
+      },
+      {
+        "option": "Poor",
+        "percentage_chance": 17.0
+      }
+    ]
+  },
+  "eating_habits": {
+    "question": "How would you rate your current eating habits?",
+    "options": [
+      {
+        "option": "Fair",
+        "percentage_chance": 48.0
+      },
+      {
+        "option": "Good",
+        "percentage_chance": 35.0
+      },
+      {
+        "option": "Poor",
+        "percentage_chance": 17.0
+      }
+    ]
+  },
+    "feeling_down": {
+      "question": "Feeling down, depressed or hopeless.",
+      "options": [
+        {
+          "option": "Several days",
+          "percentage_chance": 45.0
+        },
+        {
+          "option": "Not at all",
+          "percentage_chance": 25.0
+        },
+        {
+          "option": "More than half the days",
+          "percentage_chance": 18.0
+        },
+        {
+          "option": "Nearly every day",
+          "percentage_chance": 12.0
+        }
+      ]
+    },
+  "depression_experience": {
+    "question": "Are you currently experiencing overwhelming sadness, grief, or depression?",
+    "options": [
+      {
+        "option": "Yes",
+        "percentage_chance": 33.0
+      },
+      {
+        "option": "No",
+        "percentage_chance": 67.0
+      }
+    ]
+  },
+    "little_interest": {
+      "question": "Little interest or pleasure in doing things.",
+      "options": [
+        {
+          "option": "Several days",
+          "percentage_chance": 42.0
+        },
+        {
+          "option": "Not at all",
+          "percentage_chance": 28.5
+        },
+        {
+          "option": "More than half the days",
+          "percentage_chance": 18.0
+        },
+        {
+          "option": "Nearly every day",
+          "percentage_chance": 11.5
+        }
+      ]
+    },
+    "movement_changes": {
+      "question": "Moving or speaking so slowly that other people could have noticed? Or the opposite - being so fidgety or restless that you have been moving around a lot more than usual.",
+      "options": [
+        {
+          "option": "Not at all",
+          "percentage_chance": 55.0
+        },
+        {
+          "option": "Several days",
+          "percentage_chance": 28.0
+        },
+        {
+          "option": "More than half the days",
+          "percentage_chance": 12.0
+        },
+        {
+          "option": "Nearly every day",
+          "percentage_chance": 5.0
+        }
+      ]
+    },
+    "feeling_down": {
+      "question": "Feeling down, depressed or hopeless.",
+      "options": [
+        {
+          "option": "Several days",
+          "percentage_chance": 45.0
+        },
+        {
+          "option": "Not at all",
+          "percentage_chance": 25.0
+        },
+        {
+          "option": "More than half the days",
+          "percentage_chance": 18.0
+        },
+        {
+          "option": "Nearly every day",
+          "percentage_chance": 12.0
+        }
+      ]
+    },
+    "sleep_problems": {
+      "question": "Trouble falling asleep, staying asleep, or sleeping too much.",
+      "options": [
+        {
+          "option": "Several days",
+          "percentage_chance": 48.0
+        },
+        {
+          "option": "More than half the days",
+          "percentage_chance": 22.0
+        },
+        {
+          "option": "Not at all",
+          "percentage_chance": 18.0
+        },
+        {
+          "option": "Nearly every day",
+          "percentage_chance": 12.0
+        }
+      ]
+    },
+    "low_energy": {
+      "question": "Feeling tired or having little energy.",
+      "options": [
+        {
+          "option": "Several days",
+          "percentage_chance": 52.0
+        },
+        {
+          "option": "More than half the days",
+          "percentage_chance": 25.0
+        },
+        {
+          "option": "Nearly every day",
+          "percentage_chance": 15.0
+        },
+        {
+          "option": "Not at all",
+          "percentage_chance": 8.0
+        }
+      ]
+    },
+    "appetite_changes": {
+      "question": "Poor appetite or overeating.",
+      "options": [
+        {
+          "option": "Several days",
+          "percentage_chance": 46.0
+        },
+        {
+          "option": "Not at all",
+          "percentage_chance": 30.0
+        },
+        {
+          "option": "More than half the days",
+          "percentage_chance": 16.0
+        },
+        {
+          "option": "Nearly every day",
+          "percentage_chance": 8.0
+        }
+      ]
+    },
+    "self_esteem": {
+      "question": "Feeling bad about yourself - or that you are a failure or have let yourself or your family down.",
+      "options": [
+        {
+          "option": "Several days",
+          "percentage_chance": 44.0
+        },
+        {
+          "option": "Not at all",
+          "percentage_chance": 28.0
+        },
+        {
+          "option": "More than half the days",
+          "percentage_chance": 18.0
+        },
+        {
+          "option": "Nearly every day",
+          "percentage_chance": 10.0
+        }
+      ]
+    },
+    "concentration": {
+      "question": "Trouble concentrating on things, such as reading the newspaper or watching television.",
+      "options": [
+        {
+          "option": "Several days",
+          "percentage_chance": 50.0
+        },
+        {
+          "option": "More than half the days",
+          "percentage_chance": 22.0
+        },
+        {
+          "option": "Not at all",
+          "percentage_chance": 18.0
+        },
+        {
+          "option": "Nearly every day",
+          "percentage_chance": 10.0
+        }
+      ]
+    },
+    "suicidal_thoughts": {
+      "question": "Thoughts that you would be better off dead or of hurting yourself in some way.",
+      "options": [
+        {
+          "option": "Not at all",
+          "percentage_chance": 78.0
+        },
+        {
+          "option": "Several days",
+          "percentage_chance": 12.0
+        },
+        {
+          "option": "More than half the days",
+          "percentage_chance": 6.0
+        },
+        {
+          "option": "Nearly every day",
+          "percentage_chance": 4.0
+        }
+      ]
+    },
+    "difficulty_functioning": {
+      "question": "How difficult have these problems made it for you to do your work, take care of things at home, or get along with other people?",
+      "options": [
+        {
+          "option": "Somewhat difficult",
+          "percentage_chance": 45.0
+        },
+        {
+          "option": "Not difficult at all",
+          "percentage_chance": 25.0
+        },
+        {
+          "option": "Very difficult",
+          "percentage_chance": 20.0
+        },
+        {
+          "option": "Extremely difficult",
+          "percentage_chance": 10.0
+        }
+      ]
+    },
+  "suicidal_thoughts_timing": {
+    "question": "When was the last time you thought about suicide?",
+    "options": [
+      {
+        "option": "Never",
+        "percentage_chance": 72.0
+      },
+      {
+        "option": "Over a year ago",
+        "percentage_chance": 15.0
+      },
+      {
+        "option": "Over 3 months ago",
+        "percentage_chance": 6.0
+      },
+      {
+        "option": "Over a month ago",
+        "percentage_chance": 3.5
+      },
+      {
+        "option": "Over 2 weeks ago",
+        "percentage_chance": 2.0
+      },
+      {
+        "option": "In the last 2 weeks",
+        "percentage_chance": 1.5
+      }
+    ]
+  },
+  "financial_status": {
+    "question": "How would you rate your current financial status?",
+    "options": [
+      {
+        "option": "Fair",
+        "percentage_chance": 45.0
+      },
+      {
+        "option": "Good",
+        "percentage_chance": 30.0
+      },
+      {
+        "option": "Poor",
+        "percentage_chance": 25.0
+      }
+    ]
+  },
+  "therapy_resources": {
+    "question": "Which of the following resources would be useful for you?",
+    "options": [
+      {
+        "option": "Worksheets",
+        "percentage_chance": 28.0
+      },
+      {
+        "option": "Therapy journal",
+        "percentage_chance": 22.0
+      },
+      {
+        "option": "Goal/habit tracking",
+        "percentage_chance": 18.0
+      },
+      {
+        "option": "Educational webinars",
+        "percentage_chance": 12.0
+      },
+      {
+        "option": "Support groups",
+        "percentage_chance": 8.0
+      },
+      {
+        "option": "I don&#039;t know",
+        "percentage_chance": 7.0
+      },
+      {
+        "option": "Other",
+        "percentage_chance": 5.0
+      }
+    ]
+  },
+  "communication_preference": {
+    "question": "How do you prefer to communicate with your therapist?",
+    "options": [
+      {
+        "option": "Mostly via phone or video sessions",
+        "percentage_chance": 42.0
+      },
+      {
+        "option": "Not sure yet (decide later)",
+        "percentage_chance": 40.0
+      },
+      {
+        "option": "Mostly via messaging",
+        "percentage_chance": 18.0
+      }
+    ]
+  },
+  "therapist_preferences": {
+    "question": "Are there any specific preferences for your therapist?",
+    "options": [
+      {
+        "option": "Female therapist",
+        "percentage_chance": 58.0
+      },
+      {
+        "option": "Male therapist",
+        "percentage_chance": 25.0
+      },
+      {
+        "option": "Older therapist (45+)",
+        "percentage_chance": 12.0
+      },
+      {
+        "option": "Therapist from the LGBTQ+ community",
+        "percentage_chance": 5.0
+      }
+    ]
+  },
+  "lgbtq_specialist": {
+    "question": "Would you like to be matched with a therapist who specializes in LGBTQ+ issues?",
+    "options": [
+      {
+        "option": "No",
+        "percentage_chance": 95.0
+      },
+      {
+        "option": "Yes",
+        "percentage_chance": 5.0
+      }
+    ]
+  }
+}
