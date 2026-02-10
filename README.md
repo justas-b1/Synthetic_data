@@ -9,9 +9,8 @@ Generates synthetic training data that resembles real-world reasoning tasks. The
 
 It's a lot easier to turn humans into robots than robots into humans." - Timothée Chalamet, A renowned AI scientist and a modern philosopher
 
-dilution
-/dʌɪˈluːʃn,dɪˈluːʃn/
-noun
+### Dilution
+
 the action of making a liquid more dilute.
 "the milk factor is greatly reduced by dilution"
 the action of making something weaker in force, content, or value.
