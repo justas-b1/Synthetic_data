@@ -7,7 +7,7 @@ the action of making a liquid more dilute.
 the action of making something weaker in force, content, or value.
 "he is resisting any dilution of dogma"
 
-Real+fake=more $ ;) Yes, I would do that.
+Real+fake=more $. Yes, I would do that.
 
 ### Intelligent Data Orchestration for Reasoning - helps train better-reasoning large language models using orchestrated training data.
 
