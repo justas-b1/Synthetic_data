@@ -9,7 +9,18 @@ the action of making something weaker in force, content, or value.
 
 Real+fake=more $. Yes, I would do that.
 
-The betterhelp_first100_sample.zip contains real user data btw. Cloning it is kind of a federal crime. So don't do it.
+The betterhelp_first100_sample.zip contains real user data btw. Cloning it is a federal crime. So don't do it.
+
+Yes, I would disguise it as social experiment/prank to incriminate more people. Why do you think I made the script public?
+
+Create python script
+Dilute data
+Sell it
+Make 2x more $
+Release script
+"It was just a social experiment all along, nothing to worry about"
+
+You fking buffoon.
 
 ### Intelligent Data Orchestration for Reasoning - helps train better-reasoning large language models using orchestrated training data.
 
